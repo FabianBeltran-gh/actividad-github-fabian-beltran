@@ -1,0 +1,4 @@
+Fabian Nicolas Beltran Lizarraga
+2026/03/12
+El objetivo de la actividad es familiarizarse con GitHub y los repositorios
+Es una funcion que permite a los desarrolladores proponer cambios realizados en una rama de código para que sean revisados, discutidos e integrados en la rama principal
