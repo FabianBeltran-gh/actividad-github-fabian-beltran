@@ -1,0 +1,3 @@
+Proyecto: Git Conflicts
+Responsable: FABIAN_BELTRAN
+Version: 1.0
